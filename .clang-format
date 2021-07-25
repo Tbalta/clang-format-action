@@ -1,5 +1,7 @@
-﻿---
+---
 BasedOnStyle: LLVM
 UseTab: Always
+AlignConsecutiveDeclarations: true
+PointerAlignment: Left
 
 ...
